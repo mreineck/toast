@@ -98,6 +98,8 @@ from .stokes_weights import StokesWeights
 
 from .pixels_healpix import PixelsHealpix
 
+from .pixels_wcs import PixelsWCS
+
 from .filterbin import FilterBin, combine_observation_matrix
 
 from .save_hdf5 import SaveHDF5
